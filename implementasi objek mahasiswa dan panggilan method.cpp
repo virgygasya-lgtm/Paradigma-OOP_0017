@@ -15,3 +15,12 @@ class mahasiswa {
 
     }
 };  //batas class
+
+int main() {
+    mahasiswa mhs1;
+    mhs1.nim = 2025;
+    mhs1.nama = "Abra";
+    mhs1.nilai = 90.5;
+
+    mhs1.printdata();
+}
