@@ -7,4 +7,7 @@ public:
     int nim;
     string nama;
     float nilai;
+    class Mahasiswa {
 
+public:
+    
