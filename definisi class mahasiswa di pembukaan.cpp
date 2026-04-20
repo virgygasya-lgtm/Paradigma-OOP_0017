@@ -9,5 +9,6 @@ public:
     float nilai;
     class Mahasiswa {
 
-public:
-    
+
+    void printdata() {
+        cout << "NIM: " << nim << endl;
